@@ -2,8 +2,8 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
-  <jar>D:\Java course\Calc\out\artifacts\Calc_jar\Calc.jar</jar>
-  <outfile>D:\Java course\Calc\Calc.exe</outfile>
+  <jar>D:\Javacourse\Calc\out\artifacts\Calc_jar\Calc.jar</jar>
+  <outfile>D:\Javacourse\Calc\Calculate.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
